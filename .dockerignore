@@ -1,0 +1,13 @@
+.git
+.vs
+.vscode
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/.vite
+**/logs
+CONTEXT.md
+README.md
+docker-compose.override.yml
+src/ProzorroDataMining.Web/pnpm-workspace.yaml
